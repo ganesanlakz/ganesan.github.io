@@ -1,0 +1,44 @@
+*{
+    font-family: 'Fira sans','sans-serif';
+}
+
+.navbar{
+    background-color:  white;
+}
+nav{
+    height: 100px;
+    border-radius: 0 0 10px 10px;
+    position: fixed;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.row{
+
+    background-color: black;
+    height: 557px;
+    width: auto;
+    border-radius: 10px;
+}
+ .column1{
+    background-color: rgb(0, 179, 255);
+    background-image: url("../img/n.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    float: left;
+    width: 35%;
+
+    
+    margin: 50px 50px 50px 50px;
+    height: 450px;
+    border-radius: 10px;
+ }
+ 
+.column2{
+    width: 50%;
+
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+} 
